@@ -1,0 +1,19 @@
+body {
+  background: #282828;
+  /* background: #dcdde1; */
+}
+
+.navbar-brand img {
+  width: 50%;
+}
+
+.navbar-bg-color{
+  background-color: #000000c4;
+}
+
+div#navbarNav ul li a {
+  color: rgb(134, 16, 16) !important;
+}
+body {
+  background-image: url('../../public/images/historia\ wallpaper.jpg');
+}
